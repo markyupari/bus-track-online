@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bus online tracker</title>
+    <!--script and css sources from mapbox-->
+    <script src="https://api.tiles.mapbox.com/mapbox-gl-js/v1.11.1/mapbox-gl.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+    <link href="https://api.tiles.mapbox.com/mapbox-gl-js/v1.11.1/mapbox-gl.css" rel="stylesheet"/>
+    <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+    <div id="map"></div>
+    
+    <div class="map-overlay top">
+        <button style="font-size: 1.5em;" onclick="run()">
+            Start Bus Tracker
+        </button>
+        <input type="text" placeholder="Comments here" name="comments">
+    </div>
+    <script src="./mapanimation.js"></script>
+</body>
+</html>
