@@ -6,7 +6,7 @@ Ark Industries will be a reference for automation in the history of technology.
 
 ## Real Time Bus Tracker
 
-This page shows an example of how to present a map with a real tiem bus tracker.  
+This page shows an example of how to present a map with a real time bus tracker.  
 The marker has been customized to show an image of a bus.  
 The map autocenters every 15 seconds at the actual bus location.  
 There is a button to start the bus tracking.
