@@ -48,7 +48,7 @@ async function getRealTimeLocation() {
         var params = {
             "api_key": "1192de8d2dad43f68e27fb55a309e7ad", //personal key
             // Request parameters
-            "RouteID": "70", //ID of bus route
+            //"RouteID": "70", //ID of bus route
         };
         //requesting data from Washington Metropolitan Area Transit Authority
         $.ajax({
