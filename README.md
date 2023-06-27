@@ -12,7 +12,7 @@ The map autocenters every 15 seconds at the actual bus location.
 There is a button to start the bus tracking.
 Consider the fact that the bus service does not work all day, which means that it is possible that at some times of the day, there will be no bus activity.  
 
-## Usage
+## How to run
 
 This file can be used for beginners in the world of web development to create their first web page in GitHub.  
 To use it, just fork it to your repository and deploy it.  
